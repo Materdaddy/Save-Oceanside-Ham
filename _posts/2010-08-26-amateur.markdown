@@ -1,0 +1,7 @@
+---
+layout: nav
+title: Amateurs vs. Commercial
+published: false
+---
+
+This page will explain why amateur use shouldn't be lumped in with commercial (for profit) use of antennae.

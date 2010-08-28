@@ -1,0 +1,11 @@
+---
+layout: nav
+title: Antenna Physics
+published: false
+---
+
+This page will have information on the physics of a proper antenna.
+
+Radiation
+Fall-off
+etc.

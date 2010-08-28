@@ -1,0 +1,47 @@
+---
+layout: default
+---
+
+<div class="page">
+	<div class="logo">
+	<h1>Save Oceanside Ham</h1>
+	</div>
+	<div class="header">
+		<ul id="tabnav">
+			{% if page.title == "Home" %}
+			<li class="current_page"><a href="/">Home</a></li>
+			{% else %}
+			<li><a href="/">Home</a></li>
+			{% endif %}
+			{% for post in site.posts %}
+				{% if post.title == page.title %}
+					<li class="current_page">
+				{% else %}
+					<li>
+				{% endif %}
+				<a href="{{ post.url }}">{{ post.title }}</a></li>
+			{% endfor %}
+		</ul>
+	</div><!--header-->
+
+	<div class="content">
+		{% if page.heading %}
+		<h2>{{ page.heading }}</h2>
+		{% else %}
+		<h2>{{ page.title }}</h2>
+		{% endif %}
+		{{ content }}
+
+	</div><!--content-->
+
+	<div class="footer">
+		<div class="left">
+			<a href="/" title="Home">Home</a>
+			<a href="/about.html" title="About">About</a>
+			<a href="/contact.html" title="Contact">Contact</a>
+		</div><!--left-->
+	  <div class="right">(c) 2010 Mat Mrosko (WD4DDY)
+	  </div><!--right-->
+	</div><!--footer-->
+
+</div><!--page-->

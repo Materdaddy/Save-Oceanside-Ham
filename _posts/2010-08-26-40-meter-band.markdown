@@ -1,0 +1,7 @@
+---
+layout: nav
+title: The 40 Meter Band
+published: false
+---
+
+This page will have information on the 40 meter band and why it's important to us.

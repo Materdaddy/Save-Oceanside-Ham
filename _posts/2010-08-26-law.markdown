@@ -1,0 +1,7 @@
+---
+layout: nav
+title: The Law!
+published: false
+---
+
+This page will detail local, state, and federal law that shows why Oceanside's Article 39 shouldn't include amateurs.
