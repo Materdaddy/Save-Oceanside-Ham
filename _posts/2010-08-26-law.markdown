@@ -1,7 +1,35 @@
 ---
 layout: nav
 title: The Law!
-published: false
 ---
 
-This page will detail local, state, and federal law that shows why Oceanside's Article 39 shouldn't include amateurs.
+State {#state}
+-----
+California Government Code Section 65850.3
+
+>Any ordinance adopted by the legislative body of a city or
+>county that regulates amateur radio station antenna structures shall
+>allow those structures to be erected at heights and dimensions
+>sufficient to accommodate amateur radio service communications, shall
+>not preclude amateur radio service communications, shall reasonably
+>accommodate amateur radio service communications, and shall
+>constitute the minimum practicable regulation to accomplish the city's
+>or county's legitimate purpose.
+
+>It is the intent of the Legislature in adding this section to the
+>Government Code, to codify in state law the provisions of Section
+>97.15 of Title 47 of the Code of Federal Regulations, which expresses
+>the Federal Communications Commission's limited preemption of local
+>regulations governing amateur radio station facilities.
+
+The ordinance facing Oceanside residents will preclude most (if not all)
+amateurs due to the high cost of a Conditional Use Permit, and the completely
+unreasonable application administrative process we will be forced to follow.
+
+For more information about the Conditional Use Permit (CUP), administrative
+process, and associated fees, please see the [Article 39](/article-39.html)
+page.
+
+Federal {#federal}
+-------
+FCC Regulations - PRB-1
