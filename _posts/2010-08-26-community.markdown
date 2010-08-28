@@ -9,7 +9,7 @@ ability of amateurs to transmit efficiently.  The ham community as a whole
 provides a great deal of public service, not only in times of emergency, but
 throughout every day life.
 
-The [ARRL](http://www.arrl.org/) webpage on [public
+The [ARRL](http://www.arrl.org/) web page on [public
 service](http://www.arrl.org/public-service) has many examples of the
 volunteer work done by radio amateurs.
 
