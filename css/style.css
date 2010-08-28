@@ -48,6 +48,11 @@ h2, h3 {
 	border-top: 0px;
 	padding: 20px;
 }
+.content blockquote {
+	font-family: "Courier New",Courier,monospace;
+	font-size: 12px;
+	width: 75%
+}
 
 .footer .left {
 	float: left;
