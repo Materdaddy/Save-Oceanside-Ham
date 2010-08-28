@@ -3,6 +3,6 @@ server: false
 server_port: 4000
 
 source: .
-destination: ./saveoceansideham.com/
+destination: /srv/www/saveoceansideham.com/
 
 permalink:   none
