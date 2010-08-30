@@ -5,26 +5,50 @@ title: The Law!
 
 State {#state}
 -----
-California Government Code Section 65850.3
+BILL NUMBER: AB 1228 CHAPTERED BILL TEXT CHAPTER 50 FILED WITH SECRETARY OF
+STATE JULY 14, 2003 APPROVED BY GOVERNOR JULY 14, 2003 PASSED THE ASSEMBLY
+JUNE 30, 2003 PASSED THE SENATE JUNE 24, 2003 AMENDED IN SENATE JUNE 12, 2003
+AMENDED IN SENATE MAY 15, 2003 INTRODUCED BY Assembly Member Dutton FEBRUARY
+21, 2003 An act to add Section 65850.3 to the Government Code, relating to
+zoning. LEGISLATIVE COUNSEL'S DIGEST AB 1228, Dutton. Zoning ordinances:
+radio antennas.
 
->Any ordinance adopted by the legislative body of a city or
->county that regulates amateur radio station antenna structures shall
->allow those structures to be erected at heights and dimensions
->sufficient to accommodate amateur radio service communications, shall
->not preclude amateur radio service communications, shall reasonably
->accommodate amateur radio service communications, and shall
->constitute the minimum practicable regulation to accomplish the city's
->or county's legitimate purpose.
+Existing law authorizes the legislative body of any county or city to adopt
+zoning ordinances for various purposes. This bill would require that any
+ordinance adopted by the legislative body of a city or county that regulates
+amateur radio station antenna structures not preclude amateur radio service
+communications, reasonably accommodate amateur radio service communications,
+allow amateur radio station antenna structures to be erected at heights and
+dimensions sufficient to accommodate amateur radio service communications,
+and constitute the minimum practicable regulation to accomplish the legitimate
+purpose of the city or county. It would declare that it is the intent of the
+Legislature in enacting this bill to codify in state law the provisions of
+specified federal regulations relating to amateur radio station facilities.
 
->It is the intent of the Legislature in adding this section to the
->Government Code, to codify in state law the provisions of Section
->97.15 of Title 47 of the Code of Federal Regulations, which expresses
->the Federal Communications Commission's limited preemption of local
->regulations governing amateur radio station facilities.
+THE PEOPLE OF THE STATE OF CALIFORNIA DO ENACT AS FOLLOWS:
+
+SECTION 1. Section 65850.3 is added to the Government Code, to read:
+
+>Any ordinance adopted by the legislative body of a city or county that
+>regulates amateur radio station antenna structures shall allow those
+>structures to be erected at heights and dimensions sufficient to accommodate
+>amateur radio service communications, **shall not preclude amateur radio**
+>service communications, shall **reasonably accommodate** amateur radio service
+>communications, and shall constitute the **minimum practicable regulation** to
+>accomplish the city's or county's legitimate purpose.
+>
+>It is the intent of the Legislature in adding this section to the Government
+>Code, to codify in state law the provisions of Section 97.15 of Title 47 of
+>the Code of Federal Regulations, which expresses the Federal Communications
+>Commission's limited preemption of local regulations governing amateur radio
+>station facilities.
 
 The ordinance facing Oceanside residents will preclude most (if not all)
 amateurs due to the high cost of a Conditional Use Permit, and the completely
 unreasonable application administrative process we will be forced to follow.
+
+We support a different permit process (or none at all) for amateur users that
+does **not** require costly permits, RF tests, etc.
 
 For more information about the Conditional Use Permit (CUP), administrative
 process, and associated fees, please see the [Article 39](/article-39.html)
@@ -32,4 +56,31 @@ page.
 
 Federal {#federal}
 -------
-FCC Regulations - PRB-1
+[Sense of Congress](http://www.fcc.gov/Bureaus/OSEC/library/legislative_histories/1347.pdf)
+
+>SEC. 10. (a) The Congress finds that-
+>>>      (1) more than four hundred and thirty-five thousand four
+>>   hundred radio amateurs in the United States are licensed by
+>>   the Federal Communications Commission upon examination in
+>>   radio regulations, technical principles, and the international
+>>   Morse code;
+>>>      (2) by international treaty and the Federal Communications
+>>   Commission regulation, the amateur is authorized to operate
+>>   his or her station in a radio service o' intercommunications and
+>>   technical investigations solely with a personal aim and **without
+>>   pecuniary interest**;
+>>>      (3) among the basic purposes for the Amateur Radio Service is
+>>   the provision of voluntary, noncommercial radio service,
+>>   particularly emergency communications; and
+>>>      (4) volunteer amateur radio emergency communications services
+>>   have consistently and reliably been provided before, during,
+>>   and after floods, tornadoes, forest fires, earthquakes, blizzards,
+>>   train wrecks, chemical spills, and other disasters.
+>(b) It is the sense of the Congress that-
+>>>      (1) it strongly encourages and supports the Amateur Radio
+>>   Service and its emergency communications efforts; and
+>>>      (2) Government agencies strong shall take into account</strong> the valuable
+>>   contributions made by amateur radio operators **when considering
+>>   actions affecting the Amateur Radio Service**.
+>
+>Approved November 3, 1988.
