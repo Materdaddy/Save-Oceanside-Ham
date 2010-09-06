@@ -27,14 +27,13 @@ OCEANSIDE CITY COUNCIL
 
 Upcoming Meetings
 ---
-* September 10th, 2010 - 
-> Agenda is available [here](http://www.ci.oceanside.ca.us/pdf/9-10-2010_TC_Agen.pdf)
-> Starts at 8:30 am
-> Item 6 on the agenda is:
->> REVIEW OF AN ADDITION TO THE ZONING ORDINANCE, ARTICLE 39, ENTITLED "Wireless Communication Facility, Satellite Dish and Antenna Standards"
-> Please attend and fill out a "[Request to Speak](http://www.ci.oceanside.ca.us/Datarelation.aspx?Content=19)" form when arriving to voice your opinion!
+September 10th, 2010 - [Telecommunications Committe Meeting](http://www.ci.oceanside.ca.us/advisorygroups.asp?advisorygroupid=22)
+* Agenda is available [here](http://www.ci.oceanside.ca.us/pdf/9-10-2010_TC_Agen.pdf)
+* Starts at 8:30 am
+* Item 6 on the agenda is: REVIEW OF AN ADDITION TO THE ZONING ORDINANCE, ARTICLE 39, ENTITLED "Wireless Communication Facility, Satellite Dish and Antenna Standards"
+* Please attend and fill out a "[Request to Speak](http://www.ci.oceanside.ca.us/Datarelation.aspx?Content=19)" form when arriving to voice your opinion!
 
-* [October 20th, 2010](http://www.ci.oceanside.ca.us/datarelation.aspx?Content=6) - City Council Meeting
-> Agenda will be linked as soon as it's available.
-> Starts at 3:00 pm for private session, public hearing at 6:00 pm.
-> Please attend and fill out a "[Request to Speak](http://www.ci.oceanside.ca.us/Datarelation.aspx?Content=19)" form when arriving to voice your opinion!
+October 20th, 2010 - [City Council Meeting](http://www.ci.oceanside.ca.us/datarelation.aspx?Content=6)
+* Agenda will be linked as soon as it's available.
+* Starts at 3:00 pm for private session, public hearing at 6:00 pm.
+* Please attend and fill out a "[Request to Speak](http://www.ci.oceanside.ca.us/Datarelation.aspx?Content=19)" form when arriving to voice your opinion!
