@@ -1,11 +1,25 @@
 ---
 layout: nav
 title: Antenna Physics
-published: false
+published: true
 ---
 
-This page will have information on the physics of a proper antenna.
+PROPAGATION OF RADIO WAVES
+---
+High frequency (HF) propagation operates almost exclusively with sky waves. Refer to: [http://www.fas.org/man/dod-101/navy/docs/es310/propagat/Propagat.htm](http://www.fas.org/man/dod-101/navy/docs/es310/propagat/Propagat.htm) for an explanation of HF and how sky waves work (The discussion of sky waves is located near the bottom of the referenced material.) Basically, sky waves rely on the ionization of particles above the Earth's atmosphere. Ionization is caused by the Sun's activity. Changes in the Sun's activity cause the spectrum of usable wavelengths to vary over hours, days, months and years.
 
-Radiation
-Fall-off
-etc.
+The maximum usable frequency (MUF) for HF declines when the Sun's activity declines. As the MUF changes, radio amateurs, who have the proper antennas, can change bands to achieve effective communication. Without the proper antenna, HF communication effectiveness is reduced.
+
+There are 10 HF amateur radio bands. During the current Sun spot cycle low, three of these bands: 3.5 MHz (75 meter), 7 MHz (40 meter) and 14 MHz (20 meter) carry 85 percent of the communications load. A comprehensive chart of United States Frequency band allocations is available at: [http://en.wikipedia.org/wiki/File:United_States_Frequency_Allocations_Chart_2003_-_The_Radio_Spectrum.jpg](http://en.wikipedia.org/wiki/File:United_States_Frequency_Allocations_Chart_2003_-_The_Radio_Spectrum.jpg).)
+
+By comparison, Cell phones do not use sky wave propagation. In place of sky wave propagation, cell phones must rely on an extensive infrastructure of cell towers. 
+Impact:
+Major catastrophes easily wipe out commercial communications infrastructure. However, in every catastrophe, radio amateurs have responded to fill the communications void. 
+
+Ridiculous arguments, past and present
+---
+* Since the Titanic is unsinkable, there is no need for lifeboats for all passengers;
+* It destroys nature's beauty to clear brush from around homes;
+* Oceanside does not have earthquakes;
+* The "Sleeping Indian" is an ancient relic of volcanic activity which will never happen again;
+* __If it's tall enough for a cell tower, its tall enough for an amateur radio antenna__;
