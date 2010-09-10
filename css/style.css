@@ -119,3 +119,6 @@ color:#000;
 background-color:#000;
 }
 
+div.figure1 { float: left; margin: 10px; }
+div.figure2 { float: right; margin: 10px; }
+div.clear { clear: both; }

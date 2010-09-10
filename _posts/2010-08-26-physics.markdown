@@ -4,7 +4,40 @@ title: Antenna Physics
 published: true
 ---
 
-PROPAGATION OF RADIO WAVES
+Ground Effect
+---
+A major difference in the design considerations for High Frequency (HF) antennas and cell phone antennas is ground effect. Depending on the height of the antenna (in wavelengths) above ground, the ground effect can change the signal pattern. The intent of antenna design is to achieve a pattern that projects, like light from a lighthouse. Ground effect must be considered.                                 
+
+<p>
+<div class="figure1" style="margin-left: 100px;">
+<a href='/images/figure1.jpg'>
+<img src='/images/figure1-thumb.jpg' alt='Figure 1 - Desired Effect' />
+</a>
+<br />Figure 1 - Desired Effect
+</div>
+
+<div class="figure2" style="margin-right: 100px;">
+<a href='/images/figure2.jpg'>
+<img src='/images/figure2-thumb.jpg' alt='Figure 2 - Unesired Effect' />
+</a>
+<br />Figure 2 - Undesired Effect
+</div>
+<div class="clear"> </div>
+</p>
+
+Both Figure 1 and Figure 2 are from The ARRL Antenna Book, 17th Edition, page 3-8. 
+
+Figure 1 shows the desired outward projection of the beam when the antenna height set at &#189; of a wavelength. It should be noted that this pattern enhances both transmitted power output and received signal input. 
+
+Figure 2 shows the undesired effects when the height of the antenna is lowered to &#188; of a wavelength above ground. Instead of projecting outward, the pattern reflects upward. A major portion of the power is transmitted at a steep upward angle where it is useless for propagation. Not only is transmit power wasted, the steep angle of the lobe also limits the receive side of communications as well. Increasing transmitter power will not recover lost reception. 
+
+Cell phone operation is not affected by ground effects because its frequency is so high, i.e. about 800 MHz. At that frequency, a half wavelength is about 7 inches. Therefore, a cell tower antenna at 35 feet would actually be at a multiple of 60 half wavelengths above ground. This is, for all practical purposes, free space. There is no ground effect problem there.
+
+Impact:
+Ground effect is not a consideration for cell phone communications. However, ground effect is a major consideration for HF. For a 40 meter HF amateur radio antenna, 35 feet is a &#188; wavelength. Figure 2 shows the undesired effect. The proposed Article 39 imposes this undesired effect on radio amateurs.
+
+
+Propagation Of Radio Waves
 ---
 High frequency (HF) propagation operates almost exclusively with sky waves. Refer to: [http://www.fas.org/man/dod-101/navy/docs/es310/propagat/Propagat.htm](http://www.fas.org/man/dod-101/navy/docs/es310/propagat/Propagat.htm) for an explanation of HF and how sky waves work (The discussion of sky waves is located near the bottom of the referenced material.) Basically, sky waves rely on the ionization of particles above the Earth's atmosphere. Ionization is caused by the Sun's activity. Changes in the Sun's activity cause the spectrum of usable wavelengths to vary over hours, days, months and years.
 
@@ -16,10 +49,11 @@ By comparison, Cell phones do not use sky wave propagation. In place of sky wave
 Impact:
 Major catastrophes easily wipe out commercial communications infrastructure. However, in every catastrophe, radio amateurs have responded to fill the communications void. 
 
+
 Ridiculous arguments, past and present
 ---
 * Since the Titanic is unsinkable, there is no need for lifeboats for all passengers;
 * It destroys nature's beauty to clear brush from around homes;
-* Oceanside does not have earthquakes;
+* Since Oceanside does not have earthquakes, there is no need for amateur radio;
 * The "Sleeping Indian" is an ancient relic of volcanic activity which will never happen again;
 * __If it's tall enough for a cell tower, its tall enough for an amateur radio antenna__;
