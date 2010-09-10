@@ -122,3 +122,21 @@ background-color:#000;
 div.figure1 { float: left; margin: 10px; }
 div.figure2 { float: right; margin: 10px; }
 div.clear { clear: both; }
+
+.article2 { margin-left: 20px; }
+.article3 { margin-left: 40px; }
+.article4 { margin-left: 60px; }
+
+.comment {
+	color: blue;
+}
+.comment2 { margin-left: 20px; }
+.comment3 { margin-left: 40px; }
+.comment4 { margin-left: 60px; }
+
+.note {
+	color: red;
+}
+.note2 { margin-left: 20px; }
+.note3 { margin-left: 40px; }
+.note4 { margin-left: 60px; }

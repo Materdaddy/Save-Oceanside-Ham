@@ -3,9 +3,921 @@ layout: nav
 title: Article 39
 ---
 
-[Full text](http://www.ci.oceanside.ca.us/pdf/draft_article39.pdf) of the
-proposed article is available on the City of Oceanside website [here](
-http://www.ci.oceanside.ca.us/advisorygroups.asp?AdvisoryGroupID=14)
+<h1>Full Text</h1>
+Full text of the proposed article is available on the [City of Oceanside](
+http://www.ci.oceanside.ca.us/advisorygroups.asp?AdvisoryGroupID=14) website
+[here](http://www.ci.oceanside.ca.us/pdf/draft_article39.pdf)
 
-As we have time to break down each section, we will do that here to explain
-why we believe this ordinance is detremental to the amateur radio community.
+
+## Article 39 Sections ## {#top}
+
+* This will be the toc
+{:toc}
+
+
+3901 Purpose and Intent {#3901}
+===
+
+<p class="article article1">
+This Article is intended to promote and provide for the following:
+</p>
+
+<p class="article article2">
+A. Establish development standards for Wireless Communications Facilities, Satellite Dish Antennas and all other forms of antennas and accessory wireless equipment consistent with federal and state law taking into account the general welfare of City residents and visual compatibility with the existing surroundings while effectively serving the communication needs of the community.  
+</p>
+
+<p class="comment comment2">
+Comment: The communication needs of our community and also the communities around us dictate a fail-safe emergency communications capability. Catastrophes do not respect city boundaries. Radio Amateur communications are fail safe, whereas commercially provided communications are often lost during major emergencies.
+</p>
+
+<p class="article article2">
+B. Require all Wireless Communications Facilities to be as unobtrusive as 
+possible, minimizing the number of freestanding and non-camouflaged Communications Facilities and establishing standards and policies to ensure that Wireless Communications Facilities within the City are developed in harmony with the surrounding environment through regulation of location and design.
+</p>
+
+<p class="comment comment2">
+Comment: This discriminates against Radio Amateur HF antennas. By default it implies the same physical size constraints on amateur antennas that use high frequency (HF) as those for Wireless Communications Facilities that use microwave or cell wavelengths. However, the physical design requirements for antennas on HF wavelengths vs. shorter commercial wavelengths are profoundly different. Indiscriminate mixing of amateur and commercial practices prevents adequate consideration of their differing requirements  
+</p>
+
+<p class="article article2">
+C. The provisions of this Article are not intended and shall not be interpreted to prohibit or to have the effect of prohibiting wireless communications services, nor shall this Article be applied in such a manner as to unreasonably discriminate among providers of functionally equivalent wireless communications services.
+</p>
+
+<p class="comment comment2">
+Comment: This paragraph favors commercial interests, not Radio Amateurs. Upon closer investigation, the combined effects of disguising the Amateur Radio Service (ARS) as a "Wireless Communications Service" along with the indiscriminate mixing of amateur and commercial practices makes it easy for the proposed Article 39 to confound or dismiss adequate consideration of the ARS.  
+</p>
+
+<p class="comment comment1">
+Comment: Section 3901 does not mention the Amateur Radio Service (ARS.)  This is probably because the document from which the draft was drawn was never intended or designed to apply to Amateur Radio.  Subsequent insertion of Amateur Radio references should similarly be omitted or the proposed Article 39 completely rewritten.
+</p>
+
+[Back to the top](#top) &#8593;
+
+
+3902 Definitions {#3902}
+===
+
+<p class="article article1">
+Antenna. A device used in communications which radiates and/or receives any radio or television signals for commercial purposes, including but not limited to, commercial cellular, personal communication service, wireless model signals, and/or data radio signals.
+</p>
+
+<p class="comment comment1">
+Comment: The above definition omits naming the ARS as an antenna user. This taints the definitions that follow.
+Actually, a definition of antenna is totally unnecessary. Note: The personal communications service (PCS) is a commercial for-profit service.
+</p>
+
+<p class="article article1">
+Antenna Array. Two or more antennas having active elements extending in one
+(1) or more directions and directional antennas mounted upon and rotated through a vertical mast or tower interconnecting the beam and antenna support, all of which elements are deemed to be part of the antenna.
+</p>
+
+<p class="comment comment1">
+Comment: See antenna.
+</p>
+
+<p class="article article1">
+Antenna, Building Mounted. Antennas which are mounted to or above a building; or mounted upon or to the side of another facility or structure such as church steeples, clock towers, sports field lighting, etc.
+</p>
+
+<p class="comment comment1">
+Comment: See antenna.
+</p>
+
+<p class="article article1">
+Antenna Height. The vertical distance measured from the adjacent existing ground surface to the tip of the highest point of the proposed structure.
+</p>
+
+<p class="article article1">
+Antenna Support Structure. A pole or similar structure that supports an antenna.
+</p>
+
+<p class="article article1">
+Cabinet. Enclosure containing equipment used by telecommunication providers, or providing electricity or telephone service to a facility.
+</p>
+
+<p class="comment comment1">
+Comment: The definition of cabinet is unnecessary. The FCC licenses the inpidual amateur. The FCC does not certify the amateur's radio station equipment. This is the major difference in amateur and commercial licensing. 
+</p>
+
+<p class="article article1">
+Camouflage or Camouflaged Facility. A Wireless Communications Facility in which the antenna, monopole, uni-pole, and/or tower, and as possible the support equipment, are hidden from public view, or effectively disguised as may reasonably be determined by the City Planner or Planning Commission as applicable, in a faux tree, monument, cupola, or other concealing structure which either mimics or which also serves as a natural or architectural feature. Concealing communications facilities in a way which do not mimic or appear as a natural or architectural feature to the average observer are not within the meaning of this definition.
+</p>
+
+<p class="comment comment1">
+Comment: There is no feasible way to disguise a HF antenna beam because of its wavelength associated dimensions. A camouflage requirement for ARS antennas would be prohibitively expensive and thus violate Section 65850.3 of California State law. The proposed Article 39 should exempt Amateur Radio from any camouflage requirement.
+</p>
+
+<p class="article article1">
+Co-location. The placement or installation of Wireless Communications Facilities on existing structures upon which communications facilities already exist.
+</p>
+
+<p class="comment comment1">
+Comment: The above is not applicable to ARS. However, because of the inclusion of ARS in the definition of "wireless communication facilities", the above definition further encumbers ARS with all the procedures used for regulating commercial for-profit services. Those regulations impose limits on the use of different antennas for different ARS band operations. Such a limitation would violate Section 65850.3 of California State law.  
+</p>
+
+<p class="article article1">
+"COW' (Cell on Wheels). A mobile wireless telecommunications site that consists of a cellular antenna tower and electronic radio transceiver equipment on a truck or trailer, designed to be a part of a cellular network. Other types of temporary, mobile wireless telecommunications sites are included in this definition.
+</p>
+
+<p class="article article1">
+Distributed Antenna Systems (DAS). A telephone corporation operating pursuant to a Certificate of Public Convenience and Necessity issued by the California Public Utilities Commission in the business of installing distributed antenna system equipment and connecting facilities including without limitation fiber optic cables, powering locations, and hub locations.
+</p>
+
+<p class="note note1">
+Needed: The definition of a high frequency (HF) antenna beam because of its wavelength associated dimensions.
+</p>
+
+<p class="article article1">
+FCC. The Federal Communications Commission or any successor to that agency. 
+</p>
+
+<p class="article article1">
+Front-yard Visibility. The facility is visible from the front yard of any existing residential unit. Except that, a wireless facility located within the public right-of-way along rear yards of residential units is not considered to have "front yard visibility" even if a portion of the facility can be viewed from a front yard. To qualify under this exception, a solid wall or fence at least five feet in height must exist between the wireless facility and the rear yard of the residential unit.
+</p>
+
+<p class="comment comment1">
+Comment: If a commercial provider's system is exempt by special consideration then ARS should also receive the same consideration. Such bias violates Section 65850.3 of California State law.  
+</p>
+
+<p class="article article1">
+Lattice Tower. An open framework freestanding structure used to support one (1) or more antennas, typically with three (3) or four (4) support legs on main vertical load bearing members.
+</p>
+
+<p class="article article1">
+Mast. Same as Antenna support structure. 
+</p>
+
+<p class="article article1">
+Monopole. A structure composed of a single pole used to support antennas or related equipment.
+</p>
+
+<p class="article article1">
+Mounted. Attached or supported.
+</p>
+
+<p class="article article1">
+Nonresidential Use. Uses such as churches, schools, residential care facilities that are not a residential use but may be allowed in a residential zone typically with a conditional use permit.
+</p>
+
+<p class="article article1">
+Operator or Telecom Operator. Any person, firm, corporation, company or other entity that directly or indirectly owns, leases, runs, manages, or otherwise controls a telecom facility or facilities within the City.
+</p>
+
+<p class="note note1">
+Note: The above is defined by the FCC as the "Control Operator"..
+</p>
+
+<p class="article article1">
+Radio Frequency. Electromagnetic waves in the frequency range of three hundred (300) kHz (three hundred thousand cycles per second) to 300 GHz (three hundred billion cycles per second).
+</p>
+
+<p class="article article1">
+Radome. A visually opaque, radio frequency transparent material which may be flat or cylindrical in design and is used to visually hide antennas.
+</p>
+
+<p class="article article1">
+Roof Mounted. Mounted above the eave line of a building.
+</p>
+
+<p class="article article1">
+Search Ring. The area of service deficiency within which a new facility is proposed to address the network deficiency.
+</p>
+
+<p class="article article1">
+Stealth Facility. A Wireless Communications Facility designed to blend into the
+surrounding environment and to be minimally visible. lt may appear as a natural
+feature, such as a tree or rock or other natural feature or may be incorporated into an architectural feature such as a steeple, parapet wall, light standard, or be screened by an equipment screen, landscaping or other equally suitable method.
+</p>
+
+<p class="comment comment1">
+Comment: Same as Camouflage or Camouflaged Facility. There is no feasible way to disguise a ham HF antenna array because of its wavelength associated dimensions. A stealth requirement for ARS antennas would be prohibitively expensive and thus violate Section 65850.3 of California State law. 
+</p>
+
+<p class="article article1">
+Support Equipment. The physical, electrical and or electronic equipment included within a Wireless Communications Facility used to house, power, and or process signals to or from the facility's antenna(s).
+</p>
+
+<p class="comment comment1">
+Comment: Like "Cabinet "above, the definition of support equipment is unnecessary. The FCC licenses the inpidual amateur. The FCC does not approve or certify the amateur's radio station equipment. This is one of the major differences in amateur and commercial licensing.
+</p>
+
+<p class="article article1">
+Telecommunications Facility, Telecom Facility, Wireless Telecommunications Facility, Wireless Communications Facility or Facility. An installation that sends and or receives wireless radio frequency signals or electromagnetic waves, including, but not limited to, directional, omni-directional and parabolic antennas, structures or towers to support receiving and or transmitting devices, supporting equipment and structures, and the land or structure on which they are all situated. The term does not include mobile transmitting devices, such as vehicle or hand-held radios/telephones and their associated transmitting antennas.
+</p>
+
+<p class="comment comment1">
+Comment: The above definition is a complete dismissal of the historical definition of amateur radio; by Congress; by the FCC and recently; by Section 65850.3 of California State law. This ignominious definition, combined with the proposed Article 39's manner of mutating amateur with commercial regulations plus the preferential exemptions for for-profit commercial carriers is a deceptive and anti ARS. It creates a procedural demur which favors built-in requirements written for commercial providers. Every Radio Amateur application will waste valuable resources just to realize a lawful right. This is not what the spirit of the law intended.
+</p>
+
+<p class="article article1">
+Uni-pole. A monopole that does not have antenna elements other than the pole itself or the antenna elements are concealed inside a radome of the same diameter as the pole or exceeding the pole diameter by no greater than six (6) inches.
+</p>
+
+<p class="comment comment1">
+Comment: Like Section 3901, Section 3902 does not mention the Amateur Radio Service (ARS.)  This is probably because the document from which the draft was drawn was never intended or designed to apply to Amateur Radio.  Subsequent insertion of Amateur Radio references should similarly be omitted or the proposed Article 39 completely rewritten.
+</p>
+
+[Back to the top](#top) &#8593;
+
+
+
+3903 Applicability {#3903}
+===
+
+<p class="article article1">
+This Article shall apply to all Wireless Communications Facilities providing voice and/or data transmission, including but not limited to, mobile telephone services, fixed microwave services, mobile data services, and limited digitized video transmissions and services, except as provided below:
+</p>
+
+<p class="comment comment1">
+Comment: The above statement identifies various commercial providers but does not mention the ARS. This is probably because the document from which the draft was drawn was never intended or designed to apply to Amateur Radio.  Subsequent insertion of Amateur Radio references should similarly be omitted or the proposed Article 39 completely rewritten. It is biased.
+</p>
+
+<p class="article article2">
+A. Exempt by State and/or Federal Regulations. A Wireless Communications
+Facility shall be exempt from the provisions of this Article if and to the extent state or federal law preempts local regulation of the Facility. 
+</p>
+
+<p class="comment comment2">
+As of July 14, 2003, there is a preemption provided by the following:
+</p>
+<pre style="margin-left: 35px;">
+THE PEOPLE OF THE STATE OF CALIFORNIA DO ENACT AS FOLLOWS:
+
+SECTION 1. Section 65850.3 is added to the Government Code, to read:
+
+65850.3.
+Any ordinance adopted by the legislative body of a city or
+county that regulates amateur radio station antenna
+structures shall allow those structures to be erected at
+heights and dimensions sufficient to accommodate amateur
+radio service communications, shall not preclude amateur
+radio service communications, shall reasonably accommodate
+amateur radio service communications, and shall constitute
+the minimum practicable regulation to accomplish the city's
+or county's legitimate purpose.
+    It is the intent of the Legislature in adding this
+section to the Government Code, to codify in state law the
+provisions of Section 97.15 of Title 47 of the Code of
+Federal Regulations, which expresses the Federal
+Communications Commission's limited preemption of local
+regulations governing amateur radio station facilities.
+</pre>
+
+<p class="comment comment2">
+The proposed Article 39 violates every point of California Section 65850.3 as follows:
+</p>
+<p class="comment comment2">
+1.  It does not allow amateur radio station antenna structures to be erected at a height and dimensions sufficient to accommodate radio service communications. Other communities have made the effort. Our sister city of Costa Mesa has an antenna zoning ordinance which does address amateur radio requirements.
+</p>
+<p class="comment comment2">
+2.  It precludes amateur radio communication. I.e. it imposes a Conditional Use Permit (CUP) fee of $4080.00 plus other fees. These fees are out of all proportion to the costs of an amateur radio station, and do not take into account the not-for-profit nature of amateur radio. Instead, amateurs are charged the same fees as multimillion dollar commercial businesses. 
+</p>
+<p class="comment comment2">
+3.  It does not reasonably accommodate amateur radio communications. It actually employs a clever redefinition of the Amateur Radio Service to relegate it into oblivion. It completely ignores the "Sense of Congress" as stated in Public Law 100-594; and demonstrates a complete insensitivity regarding the beneficial role of amateur radio as entered into Public Law 102-408, "Joint Resolution of Congress to Recognize the Achievements of Radio Amateurs as Public Record". 
+</p>
+<p class="comment comment2">
+4.  It does not constitute minimum practical regulation. As a matter of fact, it constitutes the complete opposite. This proposed zoning ordinance is 21 pages of gobbledygook. It is intended to replace Section 3025 which is 6 pages. By comparison, the City of Costa Mesa antenna zoning ordinance is eight pages. Note that Oceanside's Section 3025 went into effect before California's Section 65850.3 was enacted. 
+</p>
+
+<p class="article article2">
+B. Exempt Subject to Locational Requirements. The following are exempt from the provisions of this Article if such facilities meet all required setbacks and development standards as outlined in the particular zoning district in which the facility will be sited.
+</p>
+
+<p class="article article3">
+1. Radio or Television Antenna. Any single ground or building mounted receive only radio or television antenna for the sole use of owners or occupants of the parcel or common interest development on which such antenna is located.
+The maximum height of such antenna shall not exceed ten (10) feet higher than the building height prescribed for the zone in which the antenna is located. 
+</p>
+
+<p class="article article3">
+2. Satellite Dish Antenna. Up to three (3) ground or building mounted receive only radio or television satellite dish antennas, not exceeding one meter in diameter for the sole use of owners or occupants of the parcel or unit in the common interest development on which the antenna is located.
+</p>
+
+<p class="article article3">
+3. Citizen Band Antenna. Any ground or building-mounted citizens' band radio antenna not exceeding thirty-six (36) feet above existing grade, including any mast.
+</p>
+
+<p class="article article3">
+4. Amateur Radio Antenna. Any antenna support structure such as a mast, tower and/or building, and including the antenna(s) affixed thereto used by authorized amateur radio stations licensed by the FCC provided that the maximum height shall not exceed the greater of (a) thirty-six (36) feet above existing grade or (b) ten (10) feet above the height of the building to which the antenna and/or mast is attached, or (c) ten feet above the maximum structure height prescribed for the zone in which the antenna is located.
+</p>
+
+<p class="comment comment3">
+Comment: The above limitation ignores the requirements of ARS.  A minimum height of a half (1/2) wavelength is required for efficient operation. e.g.  one of the most heavily relied upon bands assigned to ARS is the 7.0 to 7.3 MHz band. At 7 MHz the necessary height is 70 feet over perfect ground. At this height, the signal is transmitted outward at a reasonable angle of about 30 degrees. On the other hand, if the height is pushed down to one quarter (1/4) wavelength, or 35 feet, then ground effects induce 90 degree (upward) patterns for both transmission and reception. This wastes most of the transmitted energy heating up clouds. Unfortunately, increasing power to compensate for wasted transmitter output does not compensate for the associated loss in received signal strength. The City of Costa Mesa addressed amateur radio antenna requirements by setting the height limitation to 75 feet. Their zoning ordinance is a good example of the city and the amateur radio community working together.
+</p>
+
+<p class="article article3">
+5. City Antennas. Antennas, antenna masts, and ancillary structures owned and operated by the City.
+</p>
+
+<p class="comment comment3">
+Comment; Exempt by default? How is it that the City does not have to meet the same standards as imposed on the ARS?
+</p>
+
+<p class="article article2">
+C. Wireless Communication Facilities located within the public right-of-way
+</p>
+
+<p class="comment comment2">
+Comment; Exempt by default? Does this include for-profit commercial service providers?
+</p>
+
+[Back to the top](#top) &#8593;
+
+
+
+
+3904 Conditional Use Permit Required {#3904}
+===
+
+<p class="article article1">
+A Wireless Communications Facility that is not exempt pursuant to Section 3903, or other provisions of this Article, shall be required to obtain one or more Conditional Use Permits pursuant to Article 41 and in accordance with this Article as follows:
+</p>
+
+<p class="comment comment1">
+Comment: This 1st sentence above is vague. Article 41 implications should be stated clearly as to how an applicant may be required to obtain "one or more" Conditional Use Permits (CUPs.) In the context of the following subparagraphs it throws more impediments in the way of amateur radio.
+</p>
+
+<p class="article article2">
+A. Wireless Communications Facilities located on parcels in any zoning designation in the City unless such Facilities are entirely located in a public right-of-way, are co-located, or are sited on parcels owned or controlled by the City.
+</p>
+
+<p class="comment comment2">
+Comment: Subparagraph A. above serves to exempt commercial, for-profit "Wireless Communications Facilities" by inserting "unless". This exemplifies a technique that is used in the proposed Article 39 to imply a restriction and then turn the logic upside down to provide an exemption for commercial for-profit providers. On the other hand, the associated subparagraph below serves to restrict not-for-profit amateur radio antenna installations.
+</p>
+
+<p class="article article2">
+B. Amateur Radio Antennas, including the antenna support structure such as a mast, tower and/or building, and including the antenna(s) affixed thereto, that exceed in height the greater of (a) thirty-six (36) feet above ground level or (b) ten (10) feet above the height of the building to which the antenna and/or mast is attached, or (c) ten feet above the maximum structure height for the zoning district in which the antenna will be located. Provided that, in order to issue such a Conditional Use Permit, the Planning Commission, in addition to any other required findings, must also find that:
+</p>
+
+<p class="comment comment2">
+Comment: The subparagraph above is an unnecessary restatement of the antenna restrictions in Paragraph 3903. This clearly exhibits the bias of the proposed Article 39.  In addition, the height requirements necessary for amateur radio antennas are already known. There is no need for the Planning Commission to make a finding. Subparagraph B is a pretext for inserting impediments and should be deleted.
+</p>
+
+<p class="article article3">
+1. The application is submitted by an amateur radio operator licensed by the FCC;
+</p>
+
+<p class="article article3">
+2. The permitted location is listed by the FCC as the address associated with the amateur radio operator or is the primary residence of the amateur radio  operator;
+</p>
+
+<p class="comment comment3">
+Comment: The above statement implies that the amateur radio operator cannot operate "portable" which by FCC rules is legal.  The FCC requires only that a licensed "control operator" be in charge of all station operations. Subparagraph 2 serves no purpose and should be deleted.
+</p>
+
+<p class="article article3">
+3. Allowance of the additional height and/or width is necessary to reasonably accommodate amateur radio service communications; 
+</p>
+
+<p class="comment comment3">
+Comment: Even the 70 foot height for a 40 Meter antenna is a compromise because there are other ARS bands with longer wavelengths such as 160, 80 and 60 Meters. By compromising operation on longer wavelength bands the radio amateur could still have efficient communications on the 40 Meter and shorter wavelength bands. 
+</p>
+
+<p class="article article3">
+4. Based on technical showings by the amateur radio operator applicant no lesser antenna heights and no alternative antenna structures (such as 
+retractable antennas support structures) would reasonably accommodate the 
+amateur radio operator's needs;
+</p>
+
+<p class="article article3">
+5. The regulation constitutes the minimum practicable regulation to accomplish the city's goal of promoting public health and safety; 
+</p>
+
+<p class="comment comment3">
+Comment: This and previous subparagraphs imply that the height limitation on ham radio antennas is a means of promoting public health and safety.  Since this is not the case, the injection of health and safety straw men at this point can only be considered for what they are: intentional impediments.
+</p>
+
+<p class="article article3">
+6. The regulation does not preclude amateur radio service communications; 
+</p>
+
+<p class="comment comment3">
+Comment: The regulation imposes a minimum CUP fee of $4080.00 on a not-for-profit radio amateur which is easily more than the cost of the amateur station. This could certainly preclude amateur radio service communications for many who are living on retirement wages.  The for-profit commercial businesses on the other hand, are exempt. This is certainly biased against amateur radio.
+</p>
+
+<p class="article article3">
+7. The installation will comply with adopted Building Codes and all other adopted heath and safety codes and shall be subject to inspection by the City to 
+determine compliance therewith;
+</p>
+
+<p class="comment comment3">
+Comment: The "adopted Building Codes and all other adopted health and safety codes" should be stated clearly herein and not left up to imagination. 
+</p>
+
+<p class="article article3">
+8. A permit for an Amateur Radio Antenna shall be personal to the amateur radio operator to whom the permit is granted, and shall not run with the land, and shall only be transferrable to another amateur radio licensee taking 
+possession of the property where the permitted Amateur Radio Antenna is 
+located upon prior application to and non-discretionary approval by the City; 
+</p>
+
+<p class="article article3">
+9. A Conditional Use Permit for an Amateur Radio Antenna shall automatically 
+terminate and the permitted facilities shall be removed within 90 days 
+thereafter if the permittee: 
+</p>
+<p class="article article4">
+a. Has his or her amateur radio license revoked by the FCC, or 
+</p>
+<p class="article article4">
+b. voluntarily cancels or forfeits his or her amateur radio license, or 
+</p>
+<p class="article article4">
+c. does not renew his or her amateur radio license within three months 
+after its expiration. 
+</p>
+
+<p class="article article1">
+Amateur Radio Antennas shall comply with all other applicable provisions of this Article except where specifically exempted. 
+</p>
+
+<p class="comment comment1">
+Comment: The very last sentence, once again, is an unnecessary statement made to hammer home the fact that every conceivable impediment is to be placed in the way of the not-for-profit radio amateur.
+</p>
+
+[Back to the top](#top) &#8593;
+
+
+
+
+
+
+
+3905 Administrative Conditional Use Permit {#3905}
+===
+
+
+<p class="article article1">
+Unless a Wireless Communication Facility is exempt pursuant to Section 3903 or 
+requires one or more Conditional Use Permits pursuant to Section 3904, an 
+Administrative Conditional Use Permit shall be required for all other proposed  Wireless Communications Facilities, including, but not limited to, the following: 
+</p>
+<p class="article article2">
+A. Wireless Communication Facilities located on property owned or controlled by the City. 
+</p>
+<p class="article article2">
+B. Temporary facilities operated by Wireless Communication Providers, such as Cell on Wheel (COW) or other temporary and mobile facilities, for a maximum period of 60 days. 
+</p>
+<p class="article article2">
+C. Co-located wireless facilities located on an approved Wireless Communication Facility, except as may be permitted by Government Code section 65850.6(a). 
+</p>
+
+<p class="comment comment1">
+Comment: Nothing in section 3905 applies to amateur radio. Section 3906 should state that it does not apply to the ARS.
+</p>
+
+[Back to the top](#top) &#8593;
+
+
+
+
+3906 Application Submittal Requirements {#3906}
+===
+
+<p class="comment comment1">
+Comment: Section 3906 does not mention the Amateur Radio Service. This is probably because the document from which the draft was drawn was never intended or designed to apply to Amateur Radio.  However, because of the convoluted nature of the proposed Article 39 the reader is left searching for hidden clues on amateur radio requirements. This is an abuse of the person seeking to submit a valid application.
+</p>
+
+<p class="article article1">
+In addition to other application submittal requirements that are imposed by this Article, the City Planner shall develop and update as necessary an application form to permit the City to develop a suitable written administrative record in wireless planning cases. The form shall include, but not be limited to, the following for any application for a Wireless Communications Facility: 
+</p>
+<p class="article article2">
+A. Site plan, drawn to scale, indicating all existing and proposed features of the proposed site; 
+</p>
+<p class="article article2">
+B. A complete project description, including the following information regarding  the proposed Wireless Communication Facility: 
+</p>
+<p class="article article3">
+1 Number, size and approximate orientation of antennas; 
+</p>
+<p class="article article3">
+2 Heights of proposed facilities; 
+</p>
+<p class="article article3">
+3 Equipment enclosure type and size; 
+</p>
+<p class="article article3">
+4 Construction timeframe for equipment enclosure; 
+</p>
+<p class="article article3">
+5 Materials and colors of antennas; 
+</p>
+<p class="article article3">
+6 Description of structures necessary to support the proposed antennas      and to house ancillary equipment; 
+</p>
+<p class="article article3">
+7 Description of lighting; 
+</p>
+<p class="article article3">
+8 Description of noise/acoustical information for equipment such as air conditioning units and back-up generators;
+</p>
+<p class="article article3">
+9 Description of identification and safety signage; 
+</p>
+<p class="article article3">
+10 Description of access to the facility; 
+</p>
+<p class="article article3">
+11 Description of utility line extensions needed to serve the facility; 
+</p>
+<p class="article article3">
+12 Backup power sources, if proposed; 
+</p>
+<p class="article article3">
+13 Proposed radio frequency emissions information. 
+</p>
+<p class="article article2">
+C. Floor plans, elevations and cross-sections of any proposed equipment shelter or other appurtenant structure at a scale no smaller than one-fourth inch equals one foot with clear indication of all exterior materials and colors. Paint and materials samples shall be provided. 
+</p>
+<p class="article article2">
+D. Photo simulations depicting the actual size of the proposed Facility, including all antennas and equipment shelters, shall be submitted for review. The number of photo simulations required to fully depict the impact of the facility on the surrounding area shall be at the discretion of the City Planner. 
+</p>
+<p class="article article2">
+E. A landscape plan including but not limited to landscaping or vegetation replacement and maintenance consistent with the type of facility proposed and the zone in which it is located.
+</p>
+<p class="article article2">
+F. A plan for maintenance of the site, including trash removal, graffiti removal within 48 hours, and facility upkeep. 
+</p>
+<p class="article article2">
+G. Proof of any existing gap(s) in coverage, and the radius of area from which an antenna may be located to eliminate the gap(s). 
+</p>
+<p class="article article2">
+H. A justification study with a search ring indicating the rationale for selection of the proposed site, in view of the relative merits of any feasible alternative site within the service area. This study shall also include the applicant's master plan which indicates the proposed site in relation to the provider's existing and proposed network of sites within the City and surrounding areas, including map and narrative description of each site. For modifications or alterations to existing facilities, the applicant shall submit a justification study limited to the need to modify, alter or expand the facility. 
+</p>
+<p class="article article2">
+I. Documentation that the proposed Facility complies with all applicable FCC  rules,regulations and standards. 
+</p>
+<p class="article article2">
+J. A statement that includes a declaration regarding the facility's capacity for future co-location, supporting information regarding why the proposed wireless facility location is required, and an explanation as to why the site was not co-located. In the case of non co-located ground-mounted facilities, applications shall state the alternative sites considered and provide substantial evidence why they were rejected. The applicant shall demonstrate good faith to co-locate on exiting facilities. 
+</p>
+<p class="article article2">
+K. A description of services offered in conjunction with the proposed facility. 
+</p>
+<p class="article article2">
+L. At the discretion of the City Planner, the City may hire an independent,  qualified consultant (the "Technical Consultant") to evaluate any technical aspect of the proposed Communication Facility, including but not limited to: drive test data that indicate current site coverages and proposed coverages; potential for interference with existing or planned public safety emergency response telecommunication facilities; analysis of feasibility of alternate screening methods or devices; or, alternate (more suitable) locations. Where the City Planner elects to hire a Technical Consultant, the applicant shall deposit with the City a sum equal to the expected fee of the Technical Consultant and shall promptly reimburse the City for all reasonable costs associated with the consultation exceeding the expected fee. Any unexpended deposit held by the City at the time of withdrawal or final action on the application shall be promptly returned to the applicant. 
+</p>
+<p class="article article2">
+M. Any additional items deemed necessary by the City Planner to make the  findings required in Section 3907. 
+</p>
+
+<p class="comment comment1">
+Comment: Nothing in section 3906 applies to amateur radio. Section 3906 should state that it does not apply to the ARS.
+</p>
+
+[Back to the top](#top) &#8593;
+
+
+
+
+
+3907 Findings For Approval {#3907}
+===
+
+<p class="comment comment1">
+Comment: Section 3907 refers to Wireless Communications Facilities and then goes on to exclude Amateur Radio Antennas. However, "facilities" may include more than just antennas. The result therefore is that it places the radio amateur in danger of non-compliance with some requirement because the requirement seemed to be exempt. This is just another example of the convoluted nature of the proposed Article 39. The reader is left searching for hidden clues on amateur radio requirements. This is an abuse of the person seeking to submit a valid application.
+</p>
+
+<p class="article article1">
+In addition to any general findings otherwise required by this Article or any other provision of the Zoning Ordinance, the following findings must be made prior to the approval of a Conditional Use Permit or Administrative Conditional Use Permit for Wireless Communications Facilities (except for Amateur Radio Antennas): 
+</p>
+<p class="article article2">
+A. The placement, construction, or modification of a Wireless Communications Facility in the proposed location is necessary for the provision of wireless services to City residents, businesses, and their owners, customers, guests or other persons traveling in or about the City; 
+</p>
+<p class="article article2">
+B. The proposal demonstrates a reasonable attempt to minimize stand-alone facilities, is designed to protect the visual quality of the City, and will not have an undue adverse impact on historic resources, scenic views, or other natural or man-made resources; 
+</p>
+<p class="article article2">
+C. Where an applicant claims a significant gap in its coverage, that gap must be geographically defined and the gap proved by clear and convincing evidence. The burden of objectively proving a significant gap in its coverage rests solely with the applicant. Where a significant gap in the applicant's coverage is so proven, the applicant must also prove by clear and convincing evidence that the facility proposed is the least intrusive means of closing the significant gap in coverage; 
+</p>
+<p class="article article2">
+D. That at least one of the following is true: 
+</p>
+<p class="article article3">
+1. All applicable requirements and standards of this Article have been met; 
+</p>
+<p class="article article3">
+2. A variance has been granted from any requirement or standard of this Article which has not been met; or 
+</p>
+<p class="article article3">
+3. Strict compliance with the requirements and standards of this Article would not provide for adequate radio frequency signal reception and that no other alternative and less intrusive design of the facility that would meet the development standards is feasible; or 
+</p>
+<p class="article article3">
+4. Strict compliance with the requirements and standards of this Article would prohibit or have the effect of prohibiting the provision of personal wireless services or would unreasonably discriminate among providers of functionally equivalent wireless communications services.
+</p>
+
+<p class="article article1">
+The following findings must be made prior to approving a Conditional Use Permit increasing the allowable height as provided in this Article (except amateur radio antennas): 
+</p>
+
+<p class="article article1">
+Comment: The 1st sentence in section 3907 already exempts amateur radio antennas.
+</p>
+
+<p class="article article2">
+A. Alternatives have been provided to staff, including but not limited to additional and/or different locations and designs, and staff has determined that the application as approved would have a lesser impact on the aesthetics and welfare of the surrounding community as compared to other alternatives; 
+</p>
+<p class="article article2">
+B. Based on evidence presented the additional height greater than ten (10) feet above the maximum building height for the applicable zone is reasonably necessary for co-location of facilities for the efficient operation of the proposed facility; and 
+</p>
+<p class="article article2">
+C. Any negative impacts of the proposed facility are properly mitigated. 
+</p>
+
+[Back to the top](#top) &#8593;
+
+
+
+
+
+
+
+
+
+
+
+
+
+3908 Standard Conditions of Approval {#3908}
+===
+
+<p class="article article1">
+Each Wireless Communications Facility or antenna which is approved through a 
+conditional use permit shall be subject to the following standard conditions of approval, in addition to any other condition deemed appropriate by the City Planner or Planning Commission, as the case may be: 
+</p>
+
+<p class="comment comment1">
+Comment: Section 3908 does not mention the Amateur Radio Service (ARS.)  This is probably because the document from which the draft was drawn was never intended or designed to apply to Amateur Radio.  The implication is that amateur radio is included under the definition of "Wireless Communications Facility". However, the following section has absolutely nothing to do with amateur radio.
+</p>
+
+<p class="article article1">
+The Wireless communications Facility permitted by this Section shall be erected, operated and maintained in compliance with this Article. 
+</p>
+
+<p class="comment comment1">
+Comment: The above sentence adds absolutely nothing but gobbledygook.
+</p>
+
+<p class="article article1">
+Within 30 thirty calendar days following the installation of any Wireless Communications Facility permitted by this Article, the applicant shall provide FCC documentation to the City Planner indicating that the unit has been inspected and tested in compliance with FCC standards. Such documentation shall include the make and model (or other identifying information) of the unit tested, the date and time of the inspection, the methodology used to make the determination, the name and title of the person(s) conducting the tests, and a certification that the unit is properly installed and  working within applicable FCC standards. 
+</p>
+
+<p class="comment comment1">
+Comment: The implication is that amateur radio is included under the definition of "Wireless Communications Facility". However, the above section has absolutely nothing to do with amateur radio. For instance, the FCC does not document, inspect or certify any amateur radio operator's equipment. As a matter of fact, all hams are privileged by law to design, build, modify, calibrate, test, operate and experiment as they see fit. The inpidual amateur is licensed by the FCC, not the equipment. This is a very major difference between radio amateurs and commercial common carriers. Incorrect inferences should be omitted or the proposed Article 39 completely rewritten.
+</p>
+
+<p class="article article1">
+As to DAS installations, the required FCC documentation certification shall be made only by the wireless carrier(s) using the DAS system rather than the DAS system provider. 
+</p>
+
+<p class="comment comment1">
+Comment: The above sentence does not apply to ARS.
+</p>
+
+<p class="article article1">
+The installation of any Wireless Communications Facility shall be in compliance with all applicable provisions of the State Building Standards Code and any applicable local amendments thereto.
+</p>
+
+<p class="comment comment1">
+Comment: The above sentence adds absolutely nothing but gobbledygook. What are these applicable provisions?
+</p>
+
+<p class="article article1">
+Any substantial change in the type of antenna and/or facility installed in a particular location shall require the prior approval of the City Planner or his designee. Failure to obtain the prior approval of the City Planner or his designee may be grounds for institution of use permit revocation proceedings as well as grounds to institute any other enforcement action available under federal, state or local law. 
+</p>
+
+<p class="comment comment1">
+Comment: The FCC specifically allows and the regulations are designed to encourage amateur radio operators to experiment with equipment such as radios transmitters, amplifiers and antennas. The regulatory statement above is in direct opposition to the Federal regulation Part 97.1 of 47 CFR and violates California regulation SECTION 1. Section 65850.3.
+</p>
+
+<p class="article article1">
+Co-location of Wireless Communications Facilities pursuant to this Article shall be required whenever feasible. 
+</p>
+
+<p class="comment comment1">
+Comment: The above sentence does not apply to ARS.
+</p>
+
+[Back to the top](#top) &#8593;
+
+
+
+
+
+
+
+3909 Operation and Maintenance Standards {#3909}
+===
+
+<p class="article article1">
+Wireless Communication Facilities shall comply with the following operation and 
+maintenance standards at all times. Failure to comply shall be considered a violation of the conditions of approval and constitute a violation of this Article subject to any remedy available under the Zoning Ordinance or other applicable law as well as a basis for institution of revocation proceedings of a permit pursuant to this Article, Article 41 and Article 47. 
+</p>
+
+<p class="article article2">
+A.	Except for exempt facilities, a maintenance and facility removal agreement shall be executed by the operator and the property owner (if other than the City). No permit shall become effective until such agreement has been executed. Said agreement shall bind the operator and property owner and their successors and assigns to the facility to the following: 
+</p>
+
+<p class="comment comment2">
+Comment: Why should any facilities be exempt from maintenance standards? For instance, by law, all residence occupants are required to maintain their premises whether they have an antenna on it or not
+</p>
+
+<p class="article article3">
+1. 	Maintain the appearance of the facility; 
+</p>
+
+<p class="comment comment3">
+Comment: Radio amateurs will undoubtedly place the antenna in their back yard. Thus, the antenna is an ancillary part of their home, which by law must be maintained.  This is yet another example of the detrimental effects of trying to add on amateur radio requirements to an Ordinance that initially intended for commercial carriers.
+</p>
+
+<p class="article article3">
+2. 	Remove the facility when required by this Article or by any condition of approval, or when it is determined that the facility will not have been used during any current consecutive six month period, or if the facility will be abandoned; 
+</p>
+
+<p class="comment comment3">
+Comment: What if the "facility" in question is an amateur radio antenna belonging to a military member who is sent on an overseas tour? Should that military person be forced to tear down their antenna and then reapply for a new permit when they return?
+</p>
+
+<p class="article article3">
+3. 	(Except for Amateur Radio Antennas) Pay all costs the City reasonably incurs to monitor a facility's compliance with conditions of approval and applicable law; 
+</p>
+
+<p class="article article3">
+4. 	Reimburse the City for any and all costs incurred for work required by this Article, applicable law, or the conditions of a permit issued by the City for the Facility which the operator and property owner fail to perform within 30 days after written notice from the City to do so or sooner if required by the City for good cause; 
+</p>
+
+<p class="article article3">
+5. 	In the case of a freestanding tower or monopole (except for an Amateur Radio Antenna) the agreement shall obligate the operator and owner to lease space on the tower, at a fair market rent, to other Wireless Communication providers to the maximum extent consistent with the operational requirements of the facility, and shall further require that the 
+permittee shall not prohibit the installation of other Wireless 
+Communications Facilities on the same property; 
+</p>
+
+<p class="article article3">
+6. 	Where the City Planner or Planning Commission or City Council, as the case may be, determines that it is necessary to ensure compliance with the conditions of approval or otherwise provide for removal of a Facility that is temporary in nature or upon its disuse, the operator or owner may be required to post a performance bond, cash or a letter of credit or other security acceptable to the City Planner in the amount of ten thousand dollars ($10,000), or such higher amount as the City Planner reasonably determines is necessary to ensure compliance with the maintenance and facility removal agreement. This requirement shall not apply to an amateur radio antenna. 
+</p>
+
+<p class="article article2">
+B.	 Each Wireless Communication Facility shall include signage approved by the City Planner identifying the name and phone number of a party to contact in the event of an emergency. Such signage must comply with any applicable provisions of this Article and Article 33 (sign ordinance). 
+</p>
+
+<p class="comment comment2">
+Comment: Why should any sign be placed in the back yard of any home? What good will it do, other than be an eyesore to the neighbors? Why not just require every residence to post a sign on the front door so fire and police will have information about who lives inside? 
+</p>
+
+<p class="article article2">
+C. 	Wireless Communication Facilities and the sites on which they are located shall be maintained in good repair, free from trash, debris, litter and graffiti and other forms of vandalism. Any damage from any cause shall be corrected within five days of written notice by the City. Graffiti shall be removed as soon as practicable, and in no event longer than 48 hours after notice by the City.
+</p>
+
+<p class="comment comment2">
+Comment: Radio amateurs will undoubtedly place the antenna in their back yard. Thus, the antenna is an ancillary part of their home, which by law must be maintained.  This is yet another example of the detrimental effects of trying to add on amateur radio requirements to an Ordinance that initially intended for commercial carriers.
+</p>
+
+<p class="article article2">
+D.The owner or operator of a Wireless Communication Facility shall maintain landscaping in accordance with an approved landscape plan and shall replace dying or dead trees, foliage or other landscape elements shown on the approved plans within 30 days of written notification by City. Amendments or modifications of the approved landscape plan shall not be made without written City approval.
+</p>
+
+<p class="comment comment2">
+Comment: Radio amateurs will undoubtedly place the antenna in their back yard. Thus, the antenna is an ancillary part of their home, which by law must be maintained.  This is yet another example of the detrimental effects of trying to add on amateur radio requirements to an Ordinance that initially intended for commercial carriers.
+</p>
+		  
+<p class="article article2">
+E. 	A Wireless Communication Facility shall be operated to minimize noise impacts to surrounding residents and persons using nearby facilities and recreation areas. All equipment that may emit noise in excess of the levels permitted by Article 38 of the City Municipal Code (noise ordinance) shall be enclosed. Backup generators shall only be used during periods of power outages or for testing. 
+</p>
+
+<p class="comment comment2">
+Comment: This is yet another example of the impediments to amateur radio by an Ordinance initially intended for commercial carriers. The only time radio amateurs ever use a backup generator is for emergencies or emergency test.
+</p>
+
+<p class="article article2">
+F. 	Temporary power may be allowed during the initial construction or major repair of a Facility for the minimal amount of time necessary to complete the work. The operator shall provide a timeline to the City Planner and keep staff updated as to the time of completion. 
+</p>
+
+<p class="comment comment2">
+Comment: This is yet another example of the impediments to amateur radio by an Ordinance initially intended for commercial carriers. The only time radio amateurs ever use a backup generator is for emergencies or emergency test.
+</p>
+
+<p class="article article2">
+G. 	Radio Frequency Emissions Safety. No Wireless Communication Facility may, by itself or in conjunction with other Wireless Communication Facilities generate radio frequency emissions in excess of the standards for permissible human exposure, as provided by applicable federal regulations including 47 C.F.R. 1.1307 et seq. 
+</p>
+
+[Back to the top](#top) &#8593;
+
+
+
+
+
+
+3910 Public Rights-of-Way {#3910}
+===
+
+<p class="comment comment1">
+Comment: Section 3910 does not apply to amateur radio.
+</p>
+
+<p class="article article1">
+Wireless Communication Facilities located in the City Rights-of-Way shall be required to obtain an encroachment permit prior to installation and shall be subject to the jurisdiction of the City Engineer or his designee who shall, consistent with Public Utility Code Sections 7901 and 7901.1, determine the time, place and manner of construction for all facilities located within public rights-of-way. If the City Engineer determines that a substantial portion of the Facility will be located outside the right-of-way, then the Facility shall be required to comply with this Article. 
+</p>
+
+[Back to the top](#top) &#8593;
+
+
+
+
+
+3911 Wireless Communication Facility Standards {#3911}
+===
+
+<p class="comment comment1">
+Comment: As stated below, Section 3911 below does not apply to amateur radio.
+</p>
+
+<p class="article article1">
+The following development and design standards shall be used to review any application for a Conditional Use Permit or Administrative Conditional Use Permit for Wireless Communication Facility pursuant to this Article and Article 41. Additionally, if any facility is proposed to be sited in the Coastal Zone as defined by the Local Coastal Program (LCP) such facility must also comply with all applicable provisions of the LCP. All Wireless Communication Facilities (except amateur radio antennas) shall be planned, designed, located, erected, operated, and maintained in accordance with the following standards: 
+</p>
+
+<p class="article article2">
+A. 	Wireless Communication Facilities shall comply with all development standards within the applicable zoning district of the subject site, except parking and landscape coverage. 
+</p>
+<p class="article article2">
+B. 	Height limits for all Wireless Communication Facilities shall be in accordance with this Article. 
+</p>
+<p class="article article2">
+C. 	All Wireless Communication Facilities and Accessory Wireless Equipment shall comply with the applicable provisions of Articles 33 (sign ordinance) and 38 (noise ordinance) of the City's Municipal Code. 
+</p>
+<p class="article article2">
+D. 	Visual Impact Screening Standards: All Wireless Communication Facilities shall to the greatest extent reasonably possible employ Camouflage Design Techniques to minimize visual impacts and provide appropriate screening. The Facility shall be maintained at all times in a "like new" condition and such techniques shall be employed to make the installation, operation and appearance of the facility as visually inconspicuous as possible. Depending on the proposed site and surroundings, certain Camouflage Design Techniques may be deemed by the City as ineffective or inappropriate and alternative techniques may be required. The following Camouflage Design Techniques shall be considered based on different installation situations. 
+</p>
+
+<p class="article article1" style="text-decoration: underline;">
+For building mounted installations. 
+</p>
+
+<p class="article article3">
+A. 	Screening materials matched in color, size, proportion, style, texture, and quality with the exterior design and architectural character of the structure and the surrounding visual environment. 
+</p>
+<p class="article article3">
+B. 	Facility components, including all antenna panels, shall be mounted either inside the structure or behind the proposed screening elements and not on the exterior face of the structure. 
+</p>
+<p class="article article3">
+C. 	The Camouflage Design Techniques applied shall result in an installation that is camouflaged and prevents the facility from visually dominating the surrounding area. Camouflage Design Techniques should be used to hide the installation from predominant views from surrounding properties. 
+</p>
+
+<p class="article article1" style="text-decoration: underline;">
+For Structure Mounted Installations excluding Monopole Installations 
+</p>
+
+<p class="article article3">
+A. 	All antenna panels and accessory components mounted on the exterior of the structure shall be painted and textured or otherwise coated to match the predominant color and surface texture of the mounting structure. 
+</p>
+<p class="article article3">
+B. 	When required by the City, antenna panels shall be located and arranged on the structure so as to replicate the installation and appearance of the equipment already mounted to the structure. 
+</p>
+<p class="article article3">
+C. 	The Camouflage Design Techniques applied shall result in an installation that is camouflaged and prevents the facility from visually dominating the surrounding area. Camouflage Design Techniques should be used to hide the installation from direct view from surrounding properties. 
+</p>
+<p class="article article3">
+D.	Antennas shall not be mounted on above ground water storage tanks. 
+</p>
+
+<p class="article article1" style="text-decoration: underline;">
+For Monopole Installations 
+</p>
+
+<p class="article article3">
+A. 	Monopole installations shall be situated so as to utilize existing natural or man-made features including topography, vegetation, buildings, or other structures to provide the greatest amount of visual screening. 
+</p>
+<p class="article article3">
+B. 	All antenna components and support equipment shall be treated with exterior coatings of a color and texture to match the predominant visual background and/or adjacent architecture so as to visually blend in with the surrounding development. Subdued colors and non-reflective materials that blend with surrounding materials and colors shall be used. 
+</p>
+<p class="article article3">
+C. 	In certain conditions, such as locations that are readily visible from residential or open space areas where there is heightened sensitivity for visual impacts and compatibility, the measures described above may not be sufficient to create an effectively camouflaged installation. In these cases, additional measures may be required by the City, including but not limited to enclosing the Wireless Communications Facility entirely within a vertical screening structure (suitable architectural feature such as a clock tower, bell tower, icon sign, lighthouse, windmill, etc.) may be required through the permit process. All facility components, including the antennas, shall be mounted inside the structure. 
+</p>
+<p class="article article3">
+D.     	Camouflage Design Techniques employed shall result in an installation that either will blend in with the predominant visual backdrop or will disguise the facility so it appears to be a decorative or attractive architectural feature. If Camouflage Design Techniques for monopoles do not adequately hide or prevent direct viewing of the facility, then the permit may be denied. 
+</p>
+
+<p class="article article1">
+<span style="text-decoration: underline;">
+Co-location Facilities</span>. Co-location installation shall use screening methods similar to those used on the existing Wireless Communication Facility. If the City Planner 
+determines existing screening methods do not conform to the Camouflage  Design standards herein, additional screening methods may be required for the co-located facilities. Use of other appropriate screening methods may be considered  through the substantial conformity process. 
+</p>
+
+<p class="article article1">
+<span style="text-decoration: underline;">
+"Cell on Wheels" (COW)</span>: A COW or other similar temporary and mobile Wireless 
+Communications Facility installation may require screening to reduce visual impacts depending on the duration of the permit and the setting of the proposed site. If screening methods are determined to be necessary, the appropriate screening methods, considering the temporary nature and length of the permitted use, will be determined through the Conditional Use Permit or administrative review (including but not limited to the Administrative Conditional Use Permit or Substantial Conformity process.) 
+</p>
+
+<p class="article article1">
+<span style="text-decoration: underline;">
+For Accessory Wireless Equipment</span>: All accessory wireless equipment associated with the operation of any Wireless Communication Facility shall be screened. The following screening techniques shall be considered based on the type of installation: 
+</p>
+
+<p class="article article3">
+A. 	Accessory wireless equipment for building mounted facility may be located underground, inside the building, or on the roof of the building that the facility is mounted on, provided that both the equipment and screening materials are painted the color of the building, roof, and/or surroundings. All screening materials for roof-mounted facilities shall be of a quality and design that is architecturally compatible and consistent with the design of the building or structure. 
+</p>
+<p class="article article3">
+B. 	Accessory wireless equipment for freestanding facilities, not mounted on a building, may be visually screened by locating the equipment within a fully enclosed building or in an underground vault. For above ground installations not within an enclosed building, screening shall consist of walls, landscaping, or walls combined with landscaping to effectively screen the facility at the time of installation. All wall and landscaping materials shall be selected so that the resulting screening will be visually integrated with the architecture and landscape architecture of the surrounding area. 
+</p>
+<p class="article article3">
+C. 	All accessory wireless equipment shall be placed and mounted in the least visually obtrusive location possible.
+</p>
+
+[Back to the top](#top) &#8593;
