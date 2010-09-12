@@ -48,7 +48,7 @@ Comment: This paragraph favors commercial interests, not Radio Amateurs. Upon cl
 </p>
 
 <p class="comment comment1">
-Comment: Section 3901 does not mention the Amateur Radio Service (ARS.)  This is probably because the document from which the draft was drawn was never intended or designed to apply to Amateur Radio.  Subsequent insertion of Amateur Radio references should similarly be omitted or the proposed Article 39 completely rewritten.
+Comment: Section 3901 does not mention the Amateur Radio Service (ARS.) This is probably because the document from which the draft was drawn was never intended or designed to apply to Amateur Radio. Subsequent insertion of Amateur Radio references should similarly be omitted or the proposed Article 39 completely rewritten.
 </p>
 
 [Back to the top](#top) &#8593;
@@ -96,7 +96,7 @@ Cabinet. Enclosure containing equipment used by telecommunication providers, or 
 </p>
 
 <p class="comment comment1">
-Comment: The definition of cabinet is unnecessary. The FCC licenses the inpidual amateur. The FCC does not certify the amateur's radio station equipment. This is the major difference in amateur and commercial licensing. 
+Comment: The definition of cabinet is unnecessary. The FCC licenses the individual amateur. The FCC does not certify the amateur's radio station equipment. This is the major difference in amateur and commercial licensing. 
 </p>
 
 <p class="article article1">
@@ -198,7 +198,7 @@ Support Equipment. The physical, electrical and or electronic equipment included
 </p>
 
 <p class="comment comment1">
-Comment: Like "Cabinet "above, the definition of support equipment is unnecessary. The FCC licenses the inpidual amateur. The FCC does not approve or certify the amateur's radio station equipment. This is one of the major differences in amateur and commercial licensing.
+Comment: Like "Cabinet "above, the definition of support equipment is unnecessary. The FCC licenses the individual amateur. The FCC does not approve or certify the amateur's radio station equipment. This is one of the major differences in amateur and commercial licensing.
 </p>
 
 <p class="article article1">
@@ -214,7 +214,7 @@ Uni-pole. A monopole that does not have antenna elements other than the pole its
 </p>
 
 <p class="comment comment1">
-Comment: Like Section 3901, Section 3902 does not mention the Amateur Radio Service (ARS.)  This is probably because the document from which the draft was drawn was never intended or designed to apply to Amateur Radio.  Subsequent insertion of Amateur Radio references should similarly be omitted or the proposed Article 39 completely rewritten.
+Comment: Like Section 3901, Section 3902 does not mention the Amateur Radio Service (ARS.) This is probably because the document from which the draft was drawn was never intended or designed to apply to Amateur Radio. Subsequent insertion of Amateur Radio references should similarly be omitted or the proposed Article 39 completely rewritten.
 </p>
 
 [Back to the top](#top) &#8593;
@@ -229,7 +229,7 @@ This Article shall apply to all Wireless Communications Facilities providing voi
 </p>
 
 <p class="comment comment1">
-Comment: The above statement identifies various commercial providers but does not mention the ARS. This is probably because the document from which the draft was drawn was never intended or designed to apply to Amateur Radio.  Subsequent insertion of Amateur Radio references should similarly be omitted or the proposed Article 39 completely rewritten. It is biased.
+Comment: The above statement identifies various commercial providers but does not mention the ARS. This is probably because the document from which the draft was drawn was never intended or designed to apply to Amateur Radio. Subsequent insertion of Amateur Radio references should similarly be omitted or the proposed Article 39 completely rewritten. It is biased.
 </p>
 
 <p class="article article2">
@@ -473,7 +473,7 @@ Comment: Nothing in section 3905 applies to amateur radio. Section 3906 should s
 ===
 
 <p class="comment comment1">
-Comment: Section 3906 does not mention the Amateur Radio Service. This is probably because the document from which the draft was drawn was never intended or designed to apply to Amateur Radio.  However, because of the convoluted nature of the proposed Article 39 the reader is left searching for hidden clues on amateur radio requirements. This is an abuse of the person seeking to submit a valid application.
+Comment: Section 3906 does not mention the Amateur Radio Service. This is probably because the document from which the draft was drawn was never intended or designed to apply to Amateur Radio. However, because of the convoluted nature of the proposed Article 39 the reader is left searching for hidden clues on amateur radio requirements. This is an abuse of the person seeking to submit a valid application.
 </p>
 
 <p class="article article1">
@@ -644,7 +644,7 @@ conditional use permit shall be subject to the following standard conditions of 
 </p>
 
 <p class="comment comment1">
-Comment: Section 3908 does not mention the Amateur Radio Service (ARS.)  This is probably because the document from which the draft was drawn was never intended or designed to apply to Amateur Radio.  The implication is that amateur radio is included under the definition of "Wireless Communications Facility". However, the following section has absolutely nothing to do with amateur radio.
+Comment: Section 3908 does not mention the Amateur Radio Service (ARS.) This is probably because the document from which the draft was drawn was never intended or designed to apply to Amateur Radio. The implication is that amateur radio is included under the definition of "Wireless Communications Facility". However, the following section has absolutely nothing to do with amateur radio.
 </p>
 
 <p class="article article1">
@@ -660,7 +660,7 @@ Within 30 thirty calendar days following the installation of any Wireless Commun
 </p>
 
 <p class="comment comment1">
-Comment: The implication is that amateur radio is included under the definition of "Wireless Communications Facility". However, the above section has absolutely nothing to do with amateur radio. For instance, the FCC does not document, inspect or certify any amateur radio operator's equipment. As a matter of fact, all hams are privileged by law to design, build, modify, calibrate, test, operate and experiment as they see fit. The inpidual amateur is licensed by the FCC, not the equipment. This is a very major difference between radio amateurs and commercial common carriers. Incorrect inferences should be omitted or the proposed Article 39 completely rewritten.
+Comment: The implication is that amateur radio is included under the definition of "Wireless Communications Facility". However, the above section has absolutely nothing to do with amateur radio. For instance, the FCC does not document, inspect or certify any amateur radio operator's equipment. As a matter of fact, all hams are privileged by law to design, build, modify, calibrate, test, operate and experiment as they see fit. The individual amateur is licensed by the FCC, not the equipment. This is a very major difference between radio amateurs and commercial common carriers. Incorrect inferences should be omitted or the proposed Article 39 completely rewritten.
 </p>
 
 <p class="article article1">
