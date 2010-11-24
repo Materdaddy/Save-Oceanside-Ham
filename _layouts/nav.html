@@ -13,6 +13,11 @@ layout: default
 			{% else %}
 			<li><a href="/">Home</a></li>
 			{% endif %}
+            {% if page.title == "Letter Generator" %}
+			<li class="current_page"><a href="/letter-generator.html">Letter Generator</a></li>
+			{% else %}
+			<li><a href="/letter-generator.html">Letter Generator</a></li>
+            {% endif %}
 			{% for post in site.posts %}
 				{% if post.title == page.title %}
 					<li class="current_page">

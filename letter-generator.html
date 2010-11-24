@@ -1,0 +1,65 @@
+---
+layout: nav
+title: Letter Generator
+heading: Letter Generator
+---
+
+<script type="text/javascript" src="/js/soh.js"></script>
+
+<p>Note: None of your personal information is stored by our website.  Please print a copy of the form and either send it to Fred Atchley at 
+Four Eight Seven Two, Cardiff Bay Dr., Oceanside, CA 92057 to be compiled and submitted to council, or send copies directly to our council members found <a href="http://www.ci.oceanside.ca.us/Datarelation.aspx?Content=75" title="Oceanside City Council">here</a>.</p>
+
+<form action="/letter.php" method="post" onSubmit="return validate_form(this);">
+
+<fieldset id="personal">
+<legend>Personal Information</legend>
+<label for="name">Name<span style="color: red;">*</span>:</label>
+<input type="text" name="name" />
+<br />
+<label for="addy">Address<span style="color: red;">*</span>:</label>
+<input type="text" name="addy" />
+<br />
+<label for="city">City<span style="color: red;">*</span>:</label>
+<input type="text" name="city" />
+<br />
+<label for="astate">State<span style="color: red;">*</span>:</label>
+<input type="text" name="astate" maxlength=2 />
+<br />
+<label for="zip">Zip<span style="color: red;">*</span>:</label>
+<input type="text" name="zip" />
+<br />
+<label for="phone">Phone Number:</label>
+<input type="text" name="phone" />
+<br />
+<label for="call">FCC Call Sign:</label>
+<input type="text" name="call" />
+
+<p><span style="color: red;">*</span> - Denotes a required field.</p>
+</fieldset>
+
+<fieldset id="canned">
+<legend>SaveOceansideHam.com Comments (Read Only)</legend>
+<label for="acanned">&nbsp;</label>
+<textarea name="acanned" cols=70 rows=10 readonly>
+I am asking that you support Oceanside's compliance with the intent of Congress of the United States as stated in Public Law 103-408. This law specifically identifies five areas where Radio Amateurs contribute to the public good as follows.
+
+(1) Voluntary noncommercial communication service, particularly with respect to providing safety of life and property through the use of radio communication;
+(2) Contributing service to the advancement of telecommunications;
+(3) Service which encourages improvement of an individual's technical and operating skills;
+(4) Service providing a national reservoir of trained operators, technicians and electronics experts; and
+(5) Service enhancing international good will.
+
+Based on these findings, the Congress declared that reasonable accommodation should be made for the effective operation of amateur radio from residences, private vehicles and public areas, and that regulation at all levels of government should facilitate and encourage amateur radio operation as a public benefit. With the advent of Homeland Security and the addition of California PRB-1, it is time for the City of Oceanside to take strong steps to insure that amateur radio as a resource is vigorously supported.
+
+Please provide guidance to the framers of the new zoning ordinance, Article 39, such that they incorporate the requirements of amateur radio and facilitate its use.</textarea>
+</fieldset>
+
+<fieldset id="custom">
+<legend>Your Comments</legend>
+<label for="acustom">&nbsp;</label>
+<textarea name="acustom" cols=70 rows=10 onFocus="this.value=''; this.onfocus=null;" >Input your own comments here which will be added to ours in the auto-generated PDF.  If you have no additional comments, leave this field alone, or submit blank.</textarea>
+</fieldset>
+
+<input type="submit" value="Generate PDF" />
+
+</form>

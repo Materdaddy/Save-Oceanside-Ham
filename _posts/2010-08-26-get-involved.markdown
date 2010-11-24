@@ -3,7 +3,17 @@ layout: nav
 title: Get Involved
 ---
 
-Action
+Online Petition
+---
+Please sign our online petition which will be submitted to the council.  The online petition can be found: [here](http://www.ipetitions.com/petition/oceanside_amateur_radio/).
+
+
+Snail Mail
+---
+Please fill out our auto-generating pdf form and print a hard copy to snail mail.  For more information, go to the [letter generator](/letter-generator.html) page.
+
+
+Email
 ---
 Please e-mail the city council and encourage them to heed the advice given
 by the community as well as the planning commission.  Specifically

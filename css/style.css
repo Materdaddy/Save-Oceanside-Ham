@@ -140,3 +140,17 @@ div.clear { clear: both; }
 .note2 { margin-left: 20px; }
 .note3 { margin-left: 40px; }
 .note4 { margin-left: 60px; }
+
+label
+{
+    width: 10em;
+    float: left;
+    text-align: right;
+    margin-right: 0.5em;
+    display: block
+}
+
+.submit input
+{
+    margin-left: 10.5em;
+}
