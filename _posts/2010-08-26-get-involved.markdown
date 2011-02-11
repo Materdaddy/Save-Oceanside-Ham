@@ -5,16 +5,10 @@ title: Get Involved
 
 Email
 ---
-Please e-mail the city council and encourage them to heed the advice given
-by the community as well as the planning commission.  Specifically
-recommendation 4 which the planning commission added for approval of the
-draft.  Recommendation 4 was for the City Council to figure out a way to
-lessen the impact of this article on ham radio users.
+Please e-mail the city council and encourage them to approve the Article 39A
+which has been modified in cooporation between the city and our Ham group.
 
-We recommend a complete exclusion of amateur operations/towers from the permit
-process altogether.  We are licensed by the FCC and are granted permission
-from the federal government to install and operate antennae without the need
-for local ordinances and costly fees.  Please see the [law](/law.html) page for more details
+Please see the [law](/law.html) page for more details
 
 OCEANSIDE CITY COUNCIL
 * [Jim Wood](mailto:jwood@ci.oceanside.ca.us) - Mayor
@@ -30,12 +24,7 @@ Upcoming Meetings
 ---
 One of the biggest ways to help is physical presence.  Please attend the City Council meeting.  Even if you don't intend to speak, your presence will make a difference.
 
-December 3rd, 2010 - [Telecommunications Committee](http://www.ci.oceanside.ca.us/AdvisoryGroups.asp?AdvisoryGroupID=22) Meeting
-* Agenda available: [here](http://www.ci.oceanside.ca.us/pdf/12-3-2010_TC_Agen.pdf)
-* Meeting starts at 8:30 am.
-* Please attend and fill out a "[Request to Speak](http://www.ci.oceanside.ca.us/Datarelation.aspx?Content=19)" form when arriving to voice your opinion!
-
-January 5th, 2011 - [City Council Meeting](http://www.ci.oceanside.ca.us/datarelation.aspx?Content=6)
+February 23rd, 2011 - [City Council Meeting](http://www.ci.oceanside.ca.us/datarelation.aspx?Content=6)
 * Agenda will be linked as soon as it's available
 * Starts at 3:00 pm for private session, public (Hams) should arrive at or before 6:00 pm.
 * Please attend and fill out a "[Request to Speak](http://www.ci.oceanside.ca.us/Datarelation.aspx?Content=19)" form when arriving to voice your opinion!
