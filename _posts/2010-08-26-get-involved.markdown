@@ -20,7 +20,7 @@ OCEANSIDE CITY COUNCIL
 * [Jim Wood](mailto:jwood@ci.oceanside.ca.us) - Mayor
 * [Jack Feller](mailto:jfeller@ci.oceanside.ca.us)
 * [Jerry Kern](mailto:jkern@ci.oceanside.ca.us)
-* [Charles "Chuck" Lowery](mailto:clowery@ci.oceanside.ca.us)
+* [Gary Felien](mailto:gfelien@ci.oceanside.ca.us)
 * [Ester Sanchez](mailto:esanchez@ci.oceanside.ca.us)
 
 [Email Oceanside City Council](mailto:council@ci.oceanside.ca.us)
