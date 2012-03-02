@@ -1,8 +1,8 @@
-auto: false
+auto: true
 server: false
 server_port: 4000
 
 source: .
-destination: /srv/www/saveoceansideham.com/
+destination: /srv/www/dev.saveoceansideham.com/
 
 permalink:   none
